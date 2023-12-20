@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-main/static/css/main.a38040b1.css",
-    "main.js": "/portfolio-main/static/js/main.aec68452.js",
+    "main.js": "/portfolio-main/static/js/main.1daf4cb2.js",
     "static/media/emir_husain_resume.pdf": "/portfolio-main/static/media/emir_husain_resume.80dd3d05a75562a24abb.pdf",
     "static/media/img1_main.png": "/portfolio-main/static/media/img1_main.e3da4aaac03ae6b37bb5.png",
     "static/media/portfolio3.jpg": "/portfolio-main/static/media/portfolio3.7ada77fc3d1cd6937172.jpg",
@@ -13,10 +13,10 @@
     "static/media/portfolio4.jpg": "/portfolio-main/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
     "index.html": "/portfolio-main/index.html",
     "main.a38040b1.css.map": "/portfolio-main/static/css/main.a38040b1.css.map",
-    "main.aec68452.js.map": "/portfolio-main/static/js/main.aec68452.js.map"
+    "main.1daf4cb2.js.map": "/portfolio-main/static/js/main.1daf4cb2.js.map"
   },
   "entrypoints": [
     "static/css/main.a38040b1.css",
-    "static/js/main.aec68452.js"
+    "static/js/main.1daf4cb2.js"
   ]
 }
